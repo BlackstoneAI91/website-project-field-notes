@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blackstoneai91.github.io/website-project-field-notes/sitemap.xml
